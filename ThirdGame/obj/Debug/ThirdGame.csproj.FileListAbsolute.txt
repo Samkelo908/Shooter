@@ -1,0 +1,10 @@
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\bin\Debug\ThirdGame.exe.config
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\bin\Debug\ThirdGame.exe
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\bin\Debug\ThirdGame.pdb
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\obj\Debug\ThirdGame.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\obj\Debug\ThirdGame.HealthBar.resources
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\obj\Debug\ThirdGame.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\obj\Debug\ThirdGame.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\obj\Debug\ThirdGame.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\obj\Debug\ThirdGame.exe
+C:\Users\lab_services_student\source\repos\ThirdGame\ThirdGame\obj\Debug\ThirdGame.pdb
